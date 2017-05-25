@@ -1,0 +1,33 @@
+José Néstor Pekerman,Argentina,Colombia 
+Adenor Leonardo Bacchi,Brasil,Brasil
+Edgardo Bauza,Argentina,Argentina 
+Gustavo Quinteros,Argentina,Ecuador 
+Juan Antonio Pizzi,Argentina,Chile
+Bruce Arena,Estados Unidos,Estados Unidos 
+Juan Carlos Osorio,Colombia,Mexico 
+Jorge Luis Pinto,Colombia,Honduras
+Oscar Ramirez,Costa Rica,Costa Rica
+Vahid Halilhodzic,Bosnia,Japon
+Ange Postecoglou,Grecia,Australia 
+Carlos Queiroz,Portugal,Iran 
+Uli Sticlike,Alemania,Corea del Sur 
+Salisu Yusf,Nigeria,Nigeria 
+Marc Wilmots,Alemania,Costa de Marfil
+Hugo Broos,Belgica,Camerun 
+James Kwesi,Ghana,Ghana
+Lucas Alcaraz,Espana,Argelia 
+Roberto Martinez,Espana,Belgica 
+Mehemed Bazdarevic,Bosnia,Bosnia
+Didier Deschamps,Francia,Francia
+Dick Advocaat,Holanda,Holanda 
+Giampiero Ventura,Italia,Italia 
+Julen Lopetegui,Espana,Espana 
+Vladimir Petkovic - Bosnia - Suiza 
+Joachim Low - Alemania - Alemania 
+Stanislav Cherchesov - Rusia - Rusia 
+Gareth Southgate - Inglaterra - Inglaterra
+Fernando Costa - Portugal - Portugal
+Ante Cacic - Croacia - Croacia
+Michael Skibbe - Alemania - Grecia
+Karel Jarolim - Republica Checa - Republica Checa
+  
